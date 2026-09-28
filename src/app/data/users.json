@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "firstName": "Bat",
+    "lastName": "Bold",
+    "email": "bat@gmail.com",
+    "birth_date": "2009-05-15",
+    "type": "student",
+    "created_at": "2026-09-01"
+  },
+  {
+    "id": 2,
+    "firstName": "Anu",
+    "lastName": "Davaa",
+    "email": "anu@gmail.com",
+    "birth_date": "2008-11-20",
+    "type": "student",
+    "created_at": "2026-09-02"
+  },
+  {
+    "id": 3,
+    "firstName": "Temuulen",
+    "lastName": "Ganbold",
+    "email": "temuulen@gmail.com",
+    "birth_date": "2007-03-12",
+    "type": "teacher",
+    "created_at": "2026-09-03"
+  },
+  {
+    "id": 4,
+    "firstName": "Saraa",
+    "lastName": "Erdene",
+    "email": "saraa@gmail.com",
+    "birth_date": "2009-07-08",
+    "type": "student",
+    "created_at": "2026-09-04"
+  },
+  {
+    "id": 5,
+    "firstName": "Munkh",
+    "lastName": "Bat",
+    "email": "munkh@gmail.com",
+    "birth_date": "2006-01-25",
+    "type": "teacher",
+    "created_at": "2026-09-05"
+  },
+  {
+    "id": 6,
+    "firstName": "Nomin",
+    "lastName": "Tuvshin",
+    "email": "nomin@gmail.com",
+    "birth_date": "2008-09-14",
+    "type": "student",
+    "created_at": "2026-09-06"
+  },
+  {
+    "id": 7,
+    "firstName": "Bilguun",
+    "lastName": "Sukh",
+    "email": "bilguun@gmail.com",
+    "birth_date": "2009-02-18",
+    "type": "student",
+    "created_at": "2026-09-07"
+  },
+  {
+    "id": 8,
+    "firstName": "Enkhjin",
+    "lastName": "Bataa",
+    "email": "enkhjin@gmail.com",
+    "birth_date": "2007-06-30",
+    "type": "teacher",
+    "created_at": "2026-09-08"
+  },
+  {
+    "id": 9,
+    "firstName": "Tengis",
+    "lastName": "Munkh",
+    "email": "tengis@gmail.com",
+    "birth_date": "2008-12-05",
+    "type": "student",
+    "created_at": "2026-09-09"
+  },
+  {
+    "id": 10,
+    "firstName": "Ariun",
+    "lastName": "Dorj",
+    "email": "ariun@gmail.com",
+    "birth_date": "2009-04-22",
+    "type": "student",
+    "created_at": "2026-09-10"
+  }
+]
